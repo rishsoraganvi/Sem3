@@ -1,2 +1,3 @@
 # Sem3
-Small practiced codes and more
+Programs performed to understand working of generic problems
+
